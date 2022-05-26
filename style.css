@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+
+#Origami{
+    background-color: rgb(250, 211, 211);
+}
+
+#Origami_Ideas{
+    background-color: honeydew;
+}
+
+.line{
+    width: 80px;
+    height: 4px;
+    margin: 8px auto;
+    background-color: black;
+}
